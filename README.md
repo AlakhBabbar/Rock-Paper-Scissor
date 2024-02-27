@@ -1,3 +1,1 @@
-- 👋 Hi, I’m AlakhBabbar
-- 👀 I’m interested in Python and web development
-- 🌱 I’m currently learning web development
+It's a simple Rock Paper Scissor game.
