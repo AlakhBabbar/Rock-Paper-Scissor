@@ -1,3 +1,3 @@
 - 👋 Hi, I’m AlakhBabbar
-- 👀 I’m interested in python and game devlopment
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Python and web development
+- 🌱 I’m currently learning web development
