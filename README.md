@@ -1,1 +1,1 @@
-It's a simple Rock Paper Scissor game.
+Popular Rock-Paper-Scissor game replicated in python.
